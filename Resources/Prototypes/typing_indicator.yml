@@ -30,6 +30,12 @@
   offset: 0, 0.0625
 
 - type: typingIndicator
+  id: demon
+  typingState: demon0
+  idleState: demon0
+  offset: 0, 0.125
+
+- type: typingIndicator
   id: lawyer
   typingState: lawyer0
   idleState: lawyer3
