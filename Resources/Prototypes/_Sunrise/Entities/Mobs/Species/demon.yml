@@ -65,7 +65,7 @@
       Unsexed: FemaleHuman
       Futanari: FemaleHuman # Lust-Edit
   - type: TypingIndicator
-    proto: demon
+    proto: demon # Lust-Edit
   - type: Damageable
   - type: Injurable
     damageContainer: Biological
