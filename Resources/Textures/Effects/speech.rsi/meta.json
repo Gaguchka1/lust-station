@@ -1016,9 +1016,11 @@
                 ]
             ]
         },
-        // Lust-Start
         {
             "name": "demon0",
+            "_license": "CC-BY-SA-3.0",
+            "_author": "olya0523",
+            "_comment": "LustEdit",
             "delays": [
                 [
                     0.2,
@@ -1044,7 +1046,6 @@
                 ]
             ]
         }
-        // Lust-End
     ]
 }
 
