@@ -64,8 +64,6 @@
       Female: FemaleHuman
       Unsexed: FemaleHuman
       Futanari: FemaleHuman # Lust-Edit
-  - type: TypingIndicator
-    proto: demon # Lust-Edit
   - type: Damageable
   - type: Injurable
     damageContainer: Biological
@@ -102,6 +100,10 @@
             state: jumpsuit-female
   - type: Perishable
   - type: FootprintEmitter
+  # Lust-Start
+  - type: TypingIndicator
+    proto: demon # Lust-Edit
+  # Lust-End
 
 - type: entity
   save: false
