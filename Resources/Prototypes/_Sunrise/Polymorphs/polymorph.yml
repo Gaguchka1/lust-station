@@ -257,3 +257,15 @@
     revertOnCrit: true
     revertOnDelete: true
     allowRepeatedMorphs: true
+# Lust-Start
+- type: polymorph
+  id: ArtifactCat
+  configuration:
+    entity: MobCat
+    forced: true
+    transferName: true
+    inventory: None
+    revertOnDeath: true
+    revertOnCrit: true
+    duration: 20
+# Lust-End
