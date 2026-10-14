@@ -50,7 +50,7 @@
   group: Toxins
   desc: reagent-desc-meow
   physicalDesc: reagent-physical-desc-vibrant
-  flavor: meow
+  flavor: magical
   color: "#e89dc5"
   metabolisms:
     Bloodstream:
