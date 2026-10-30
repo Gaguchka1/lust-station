@@ -1,5 +1,5 @@
 - type: polymorph
-  id: ArtifactCat
+  id: LustArtifactCat
   configuration:
     entity: MobCat
     forced: true

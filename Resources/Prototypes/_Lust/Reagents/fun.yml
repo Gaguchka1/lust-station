@@ -45,7 +45,7 @@
         frequency: 5
 
 - type: reagent
-  id: JuiceThatMakesYouMeow
+  id: LustJuiceThatMakesYouMeow
   name: reagent-name-meow
   group: Toxins
   desc: reagent-desc-meow
@@ -63,18 +63,18 @@
         force: true
         probability: 0.5
       - !type:Polymorph
-        prototype: ArtifactCat
+        prototype: LustArtifactCat
         conditions:
         - !type:MetabolizerTypeCondition
           type: [ Animal ]
           inverted: true
         - !type:ReagentCondition
-          reagent: JuiceThatMakesYouMeow
+          reagent: LustJuiceThatMakesYouMeow
           min: 50
       - !type:AdjustReagent
-        reagent: JuiceThatMakesYouMeow
+        reagent: LustJuiceThatMakesYouMeow
         amount: -20
         conditions:
         - !type:ReagentCondition
-          reagent: JuiceThatMakesYouMeow
+          reagent: LustJuiceThatMakesYouMeow
           min: 50

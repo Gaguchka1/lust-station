@@ -28,7 +28,7 @@
     Aphrodisiac: 5
 
 - type: reaction
-  id: JuiceThatMakesYouMeow
+  id: LustJuiceThatMakesYouMeow
   reactants:
     Felinase:
       amount: 1
@@ -38,4 +38,4 @@
       amount: 1
       catalyst: true
   products:
-    JuiceThatMakesYouMeow: 3
+    LustJuiceThatMakesYouMeow: 3
